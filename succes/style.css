@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@500;600&display=swap');
+
+
+body {
+    background-color: black;
+}
+.container-sm{
+    height: 328px;
+    width: 664px;
+    left: 388px;
+    top: 248px;
+    border-radius: 8px;
+    background: #FFFFFF;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+
+}
+
+.approval_icon {
+    display: flex;
+    width: 80px;
+    height: 80px;
+    margin: 32px auto;
+}
+
+.h2{
+    margin-left: 10px;
+    margin-bottom: 6px;
+    font-family: 'Sora', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-align: center;
+    
+
+
+    
+/*    
+}
+.h3{
+    margin-left: 10px;
+    margin-bottom: -10px;
+    font-family: 'Sora', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left; */
+}
+
+.btn{
+    position: absolute;
+    height: 48px;
+    width: 384px;
+    left:22%;
+    top: 230px;
+    border-radius: 4px;
+    background: #232529;
+
+
+}
+/* .form-control{
+    height: 48px;
+    left: 412px;
+    top: 456px;
+    border-radius: 8px;
+    font-family: 'Sora', sans-serif;
+    font-size: 14px;
+
+}
+.form-select{
+    height: 48px;
+    left: 412px;
+    top: 456px;
+    border-radius: 8px;
+} */
+
+
+
+.h1{
+    font-family: 'Sora', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    text-align: center;
+}
+/* .form-select{
+    font-size: 14px;
+    font-family: 'Sora', sans-serif;
+    color: #7b8088;
+}
+
+.calen{
+    background-image: url(../img/calendar.svg);
+    background-position: 95%;
+    background-repeat: no-repeat;
+    background-size: 25px;
+}
+
+
+.date{
+    background-image: url(../img/calendar.svg);
+    background-position: 95%;
+    background-repeat: no-repeat;
+    background-size: 25px;
+} */
+.close{
+    position: absolute ;
+    left: 95%;
+    top: 2%;
+}
+
+a{
+    font-family: 'Sora', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+
+}
+
+.conf_form{
+    margin-top: 40px;
+    margin-bottom: 32px;
+    display: flex;
+    justify-content: center;
+}
+
+.conf_input {
+    width: 48px;
+    height: 48px;
+    margin-right: 8px;
+    font-size: 24px;
+    font-weight: 600;
+    color: black;
+    padding: 8px 16px;
+}
